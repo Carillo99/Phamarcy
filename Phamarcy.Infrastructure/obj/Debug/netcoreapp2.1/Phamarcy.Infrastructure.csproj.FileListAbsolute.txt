@@ -1,0 +1,12 @@
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\bin\Debug\netcoreapp2.1\Phamarcy.Infrastructure.deps.json
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\bin\Debug\netcoreapp2.1\Phamarcy.Infrastructure.dll
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\bin\Debug\netcoreapp2.1\Phamarcy.Infrastructure.pdb
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\bin\Debug\netcoreapp2.1\Phamarcy.Domain.dll
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\bin\Debug\netcoreapp2.1\Phamarcy.Domain.pdb
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\obj\Debug\netcoreapp2.1\Phamarcy.Infrastructure.csprojAssemblyReference.cache
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\obj\Debug\netcoreapp2.1\Phamarcy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\obj\Debug\netcoreapp2.1\Phamarcy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\obj\Debug\netcoreapp2.1\Phamarcy.Infrastructure.AssemblyInfo.cs
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\obj\Debug\netcoreapp2.1\Phamarcy.Infrastructure.csproj.CopyComplete
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\obj\Debug\netcoreapp2.1\Phamarcy.Infrastructure.dll
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Infrastructure\obj\Debug\netcoreapp2.1\Phamarcy.Infrastructure.pdb

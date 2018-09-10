@@ -1,0 +1,8 @@
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Domain\bin\Debug\netcoreapp2.1\Phamarcy.Domain.deps.json
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Domain\bin\Debug\netcoreapp2.1\Phamarcy.Domain.dll
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Domain\bin\Debug\netcoreapp2.1\Phamarcy.Domain.pdb
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Domain\obj\Debug\netcoreapp2.1\Phamarcy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Domain\obj\Debug\netcoreapp2.1\Phamarcy.Domain.AssemblyInfoInputs.cache
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Domain\obj\Debug\netcoreapp2.1\Phamarcy.Domain.AssemblyInfo.cs
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Domain\obj\Debug\netcoreapp2.1\Phamarcy.Domain.dll
+C:\Users\gleis\workspace\Phamarcy\Phamarcy\Phamarcy.Domain\obj\Debug\netcoreapp2.1\Phamarcy.Domain.pdb
